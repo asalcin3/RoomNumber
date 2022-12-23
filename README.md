@@ -1,2 +1,2 @@
 # RoomNumber
-# Room number problem generated with C++
+Room number problem generated with C++
